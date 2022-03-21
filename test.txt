@@ -1,0 +1,5 @@
+1. git init in biliebigem ordner
+2. git remote add origin https:...
+3. etwas tun
+4. git commit -m "was hat man getan"
+5. git push
